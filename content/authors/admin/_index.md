@@ -40,7 +40,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=xzIsF98AAAAJ&hl=en
-- icon: twitter
+- icon: twitter-square
   icon_pack: fab
   link: https://twitter.com/allelellie
 - icon: instagram
